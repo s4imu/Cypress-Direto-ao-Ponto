@@ -1,0 +1,15 @@
+{
+  "name": "cypress-direto-ao-ponto",
+  "version": "1.0.0",
+  "description": "Repositorio de estudos do curso Cypress Direto ao Ponto do Agilizei",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.14.1"
+  }
+}
